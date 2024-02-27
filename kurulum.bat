@@ -1,0 +1,1 @@
+pyinstaller main.py --noconfirm --clean --onefile --name "Dövizler" --contents-directory "." --noconsole --icon "img/icon.ico"
